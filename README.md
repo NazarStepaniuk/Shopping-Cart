@@ -32,5 +32,3 @@ git clone https://github.com/NazarStepaniuk/Shopping-Cart.git
 cd Shopping-Cart
 npm install
 npm start
-git clone https://github.com/NazarStepaniuk/Shopping-Cart.git
-cd Shopping-Cart
